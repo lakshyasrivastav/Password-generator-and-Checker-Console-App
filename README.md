@@ -16,7 +16,10 @@ This is a Python-based project that checks the strength of user passwords and gi
 
 ## How to Run
 
-1. Clone the repo or download the files.
-2. Run the main file:
+1. Clone/download this repo
+2. Make sure you have Python 3 installed
+3. Add your own `common_passwords.txt` or use the provided one
+4. Run:
+
 ```bash
 python main.py
